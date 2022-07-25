@@ -1,0 +1,16 @@
+STATES = [
+    {
+        "name": "WISCONSIN",
+        "min": 53001,
+        "max": 54990
+    }
+]
+
+ALASKA = [99501, 99950]
+ALABAMA = [35004, 36925]
+ARKANSAS = [71601, 72959]
+ARKANSAS
+ARIZONA = [85001, 86556]
+CALIFORNIA = [90001, 96162]
+COLORADO = [80001, 81658]
+# CONNECTICUT = [6001, ]
